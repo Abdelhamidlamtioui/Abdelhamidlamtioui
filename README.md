@@ -3,7 +3,7 @@
 I'm Abdelhamid, a full-stack developer with experience in Laravel and React, and currently expanding my skills in Spring Boot and Angular. I enjoy building efficient, scalable applications and experimenting with low-level programming and system operations.
 
 - 🔭 I’m currently working on projects that enhance my back-end and front-end development skills.
-- 🌱 I’m learning more about Spring Boot, Angular, Docker, and C programming.
+- 🌱 I’m learning more about Spring Boot, Angular, Docker.
 - 👯 I’m looking to collaborate on innovative web applications and open-source projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdelhamid-lamtioui-3653a32a1/)
 
