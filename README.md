@@ -30,11 +30,5 @@ I'm a full-stack developer with expertise in **Laravel** and **React**, and I'm 
 - Docker, Git, PhpMyAdmin
 - **Operating Systems**: Linux
 
----
-
-### 🌟 Stats & Highlights
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelhamidlamtioui&show_icons=true&theme=radical)
-
----
 
 Thanks for stopping by! Feel free to explore my repositories, and let’s connect if you’re interested in collaborating on something exciting.
