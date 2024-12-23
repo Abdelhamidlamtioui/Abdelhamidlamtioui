@@ -1,4 +1,4 @@
-# Hi there, I'm Abdelhamid 👋
+# Hi there, I'm Abdelhamid (Cosk)👋
 
 ### 👨‍💻 About Me
 I'm a full-stack developer with expertise in **Laravel** and **React**, and I'm currently diving deeper into **Spring Boot** and **Angular**. My focus is on creating efficient, scalable applications, and I enjoy experimenting with both high-level frameworks and low-level programming.
