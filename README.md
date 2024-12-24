@@ -13,12 +13,12 @@ I'm a full-stack developer with expertise in **Laravel** and **React**, and I'm 
 ### 💼 My Skill Set
 
 #### Languages & Frameworks
-- **Back-End**: Java (Spring Boot, JUnit), Laravel
+- **Back-End**: Java (Spring Boot, JUnit),php (Laravel)
 - **Front-End**: React, Angular, TypeScript, JavaScript, jQuery
 - **Low-Level**: C
 
 #### Frontend Styling
-- CSS, Bootstrap, Tailwind CSS
+- CSS, Bootstrap, Tailwind CSS, Sass
 
 #### Databases
 - PostgreSQL, MySQL, H2, MongoDB
@@ -27,7 +27,7 @@ I'm a full-stack developer with expertise in **Laravel** and **React**, and I'm 
 - JUnit (Java), Jest (JavaScript)
 
 #### Tools & Technologies
-- Docker, Git, PhpMyAdmin
+- Docker, Git, PhpMyAdmin, Jekins
 - **Operating Systems**: Linux
 
 
