@@ -1,34 +1,45 @@
-# Hi there, I'm Abdelhamid (Cosk)👋
+# Hi there, I'm Abdelhamid (Cosk) 👋
 
 ### 👨‍💻 About Me
-I'm a full-stack developer with expertise in **Laravel** and **React**, and I'm currently diving deeper into **Spring Boot** and **Angular**. My focus is on creating efficient, scalable applications, and I enjoy experimenting with both high-level frameworks and low-level programming.
+I'm a full-stack developer and **AI Engineer** specializing in building intelligent, scalable applications. While my core expertise lies in **Laravel**, **Django**, and **React**, I am also proficient in **AI integration**—focusing on LLMs, RAG pipelines, and automation.
 
-- 🔭 **Currently Working On**: Enhancing my skills in both front-end and back-end development.
-- 🌱 **Learning**: Spring Boot, Angular, Docker, and C programming.
-- 👯 **Looking to Collaborate On**: Open-source projects and innovative web applications.
+- 🔭 **Currently Working On**: Advanced AI-driven platforms and full-stack enterprise solutions.
+- 🌱 **Learning**: Spring Boot, Angular, Docker, and refining LLM orchestration.
+- 👯 **Looking to Collaborate On**: Open-source AI projects and innovative web applications.
 - 📫 **Connect with Me**: [LinkedIn](https://www.linkedin.com/in/abdelhamid-lamtioui-3653a32a1/)
 
 ---
 
 ### 💼 My Skill Set
 
-#### Languages & Frameworks
-- **Back-End**: Java (Spring Boot, JUnit),php (Laravel)
-- **Front-End**: React, Angular, TypeScript, JavaScript, jQuery
+#### 🤖 AI & Automation
+- **LLM Integration**: OpenAI API, Gemini, Claude Code
+- **Frameworks**: LangChain, RAG (Retrieval-Augmented Generation)
+- **Tools**: n8n, GoHighLevel, Prompt Engineering
+
+#### ⚙️ Languages & Frameworks
+- **Back-End**: **Python (Django)**, PHP (Laravel), Java (Spring Boot), Node.js (MERN)
+- **Front-End**: React, Angular, TypeScript, JavaScript
 - **Low-Level**: C
 
-#### Frontend Styling
-- CSS, Bootstrap, Tailwind CSS, Sass
+#### 🗄️ Databases & DevOps
+- **Databases**: PostgreSQL, MongoDB, MySQL, Oracle Cloud (OCI)
+- **DevOps**: Docker, Kubernetes, Jenkins, CI/CD pipelines
+- **OS**: Linux (Ubuntu/Debian)
 
-#### Databases
-- PostgreSQL, MySQL, H2, MongoDB
+#### 🎨 Frontend Styling & Testing
+- **Styling**: Tailwind CSS, Sass, Bootstrap
+- **Testing**: JUnit (Java), Jest (JavaScript), Pytest
 
-#### Testing
-- JUnit (Java), Jest (JavaScript)
+---
 
-#### Tools & Technologies
-- Docker, Git, PhpMyAdmin, Jekins
-- **Operating Systems**: Linux
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical)
 
+---
 
-Thanks for stopping by! Feel free to explore my repositories, and let’s connect if you’re interested in collaborating on something exciting.
+### 🚀 Featured Projects
+*Check out my repositories to see how I integrate **Django with AI agents** and build robust **MERN** stack dashboards.*
+
+Thanks for stopping by! Feel free to explore my work, and let’s connect if you’re interested in collaborating on something exciting.
