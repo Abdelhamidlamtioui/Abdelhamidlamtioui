@@ -33,12 +33,6 @@ I'm a full-stack developer and **AI Engineer** specializing in building intellig
 
 ---
 
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?Abdelhamidlamtioui)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Abdelhamidlamtioui)
-
----
-
 ### 🚀 Featured Projects
 *Check out my repositories to see how I integrate **Django with AI agents** and build robust **MERN** stack dashboards.*
 
