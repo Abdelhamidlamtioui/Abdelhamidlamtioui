@@ -34,8 +34,8 @@ I'm a full-stack developer and **AI Engineer** specializing in building intellig
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?Abdelhamidlamtioui)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Abdelhamidlamtioui)
 
 ---
 
